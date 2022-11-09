@@ -11,7 +11,7 @@ let charIndex = 0;
 function type() {
   if (charIndex < textArray[textArrayIndex].length) {
     if (!cursorSpan?.classList.contains("typing")) cursorSpan?.classList.add("typing");
-    typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+    typedTextSpan?.textContent += textArray[textArrayIndex].charAt(charIndex);
     charIndex++;
     setTimeout(type, typingDelay);
   } else {
@@ -26,7 +26,7 @@ function erase() {
     if (!cursorSpan?.classList.contains("typing")) {
       cursorSpan?.classList.add("typing");
     }
-    typedTextSpan.textContent = textArray[textArrayIndex].substring(0, 0);
+    typedTextSpan?.textContent = textArray[textArrayIndex].substring(0, 0);
     charIndex--;
     setTimeout(erase, erasingDelay);
   } else {
