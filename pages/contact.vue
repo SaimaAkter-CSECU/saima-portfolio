@@ -13,7 +13,6 @@
     </div>
 </section>
 
-
 <section class="w3l-contact-1 py-5">
     <div class="contacts-9 py-lg-5 py-md-4">
         <div class="container">
@@ -43,7 +42,7 @@
                         </div>
                         <div class="cont-right">
                             <h6>Location</h6>
-                            <p>{{data.main.address.street}} , {{data.main.address.city}}, {{data.main.address.state}}, {{data.main.address.zip}}.</p>
+                            <p>{{data.main.address.street}} , {{data.main.address.city}}, {{data.main.address.state}}.</p>
                         </div>
                     </div>
                 </div>
@@ -76,12 +75,10 @@
 <script>
 import data from '~/static/api/data.json'
 export default {
-    
     name:"index",
     data(){
         return {
             data:data,
-			
         }
     },
     head() {

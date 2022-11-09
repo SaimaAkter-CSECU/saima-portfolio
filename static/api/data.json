@@ -1,29 +1,29 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
-        "occupation": "Developer / Programmer / Engineer",
+        "name": "Saima Akter",
+        "shortname": "Saima",
+        "occupation": "Frontend Developer / Software Engineer (Frontend)",
         "description": "Eat, sleep, code, repeat.",
-        "yearofexperience": "05",
-        "age": "25",
+        "yearofexperience": "02",
+        "age": "28",
         "designation": "Software engineer",
         "image": "/images/photo.png",
         "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "bio": "Hi there! I have been very passionate about frontend web development and software engineering. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I have 2years of experience in frontend web development. I am looking for a mid-level software engineer position in a reputed software company that can help me to achieve my goal.",
         "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
-        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "email": "saimaakterzuma@gmail.com",
+        "phone": "+88 01521222087",
+        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.4006097815213!2d91.82851681443051!3d22.376250245789326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd87f465d754b%3A0xf686fc13e41495fd!2sHamjarbag%20Rd%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1667924647322!5m2!1sen!2sbd",
         "address": {
-            "street": "Pahartoli 12 quater",
+            "street": "Hamjarbag",
             "city": "Chittagong",
             "state": "Bangladesh",
-            "zip": "4202"
+            "zip": "4212"
         },
         "quotes1": {
             "sectiontitle": "My resume",
-            "title": "I Would Love to make your Ideas real",
-            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+            "title": "I Would Love to make your Ideas real with my skills",
+            "description": "I am Front End Developer. I am Proficient in modern website design. I specialize in pixel-perfect responsive design with VueJs, NuxtJs, Vuetify, HTML5, CSS3, Flexbox, Bootstrap, MD Bootstrap, ES6, JavaScript. I also have solid knowledge working with React, Redux, server-side Php and MySQL database."
         },
         "quotes2": {
             "sectiontitle": "",
@@ -31,95 +31,131 @@
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
         },
         "workabout": {
-            "completedproject": "100",
-            "inprogressproject": "20",
-            "awardrecived": "15",
-            "happyclinet": "100"
+            "completedproject": "50",
+            "inprogressproject": "5",
+            "awardrecived": "5",
+            "happyclinet": "20"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
-        "social": [{
-                "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
-                "className": "fa fa-youtube"
-            },
+        "resumedownload": "https://drive.google.com/file/d/1AuLWBAnMH2SA7dmKDmwKKnzzA1782jIT/view?usp=sharing",
+        "social": [
             {
-                "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
-                "className": "fa fa-facebook"
+                "name": "github",
+                "url": "https://github.com/SaimaAkter-CSECU",
+                "className": "fa fa-github"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
+                "url": "https://www.linkedin.com/in/saima-akter-319b6818b/",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
-                "className": "fa fa-instagram"
+                "name": "facebook",
+                "url": "https://www.facebook.com/saima.akter.716",
+                "className": "fa fa-facebook"
             },
             {
-                "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
-                "className": "fa fa-github"
+                "name": "instagram",
+                "url": "https://www.instagram.com/saimaa.akterr/",
+                "className": "fa fa-instagram"
             }
         ]
     },
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
-        "education": [{
-            "school": "International Islamic University Chittagong.",
-            "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "July 2018",
-            "description": "Graduated with First Class Honours"
-        }],
-        "work": [{
-            "company": "Scandicsoft",
-            "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
-        }],
+        "education": [
+            {
+                "school": "University of Chittagong.",
+                "degree": "MS.(Engg.), Computer Science and Engineering",
+                "graduated": "February 2022",
+                "description": "Post-Graduated with CGPA 3.56"
+            },
+            {
+                "school": "University of Chittagong.",
+                "degree": "BSc.(Engg.), Computer Science and Engineering",
+                "graduated": "October 2018",
+                "description": "Graduated with CGPA 3.60"
+            }
+        ],
+        "work": [
+            {
+                "company": "Workspacify",
+                "title": "Software Engineer (Frontend)",
+                "years": "June 2022 - Present",
+                "job_type": "Fulltime",
+                "description": "Developing some user-friendly and best websites using VueJs 3, NuxtJs, Bootstrap, Javascript, etc.."
+            },
+            {
+                "company": "Nextive Solutions",
+                "title": "Frontend Developer",
+                "years": "August 2021 - December 2021",
+                "job_type": "Fulltime",
+                "description": "Developing user-friendly web applications using VueJS, NuxtJs, Vuetiy, etc.."
+            },
+            {
+                "company": "Aamiri E-centric Services",
+                "title": "Software engineer",
+                "years": "September 2020 - April 2021 / November 2019 - August 2020",
+                "job_type": "Fulltime / Contractual",
+                "description": "Developed E-commerces sites using PHP, MySQL, HTML, CSS(Sass), Bootstrap, JavaScript, JQuery."
+            },
+            {
+                "company": "Nextive Solutions",
+                "title": "Frontend Developer",
+                "years": "June 2019 - November 2019",
+                "job_type": "Contractual",
+                "description": "Developed Admin panel of Admission Assistant App (version-1) using Php, MySQL, Js, JQuery, Bootstrap, HTML, CSS"
+            }
+        ],
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
         "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
         "skills": [{
-                "name": "Php",
-                "level": "90%"
+                "name": "VueJs",
+                "level": "95%"
             },
             {
-                "name": "Python",
+                "name": "NuxtJs",
                 "level": "60%"
             },
             {
-                "name": "Vue",
-                "level": "70%"
+                "name": "JavaScript",
+                "level": "95%"
+            },
+            {
+                "name": "Bootstrap",
+                "level": "95%"
+            },
+            {
+                "name": "Vuetify",
+                "level": "80%"
             },
             {
                 "name": "React",
                 "level": "50%"
-            },
-            {
-                "name": "Web Development",
-                "level": "95%"
             }
         ]
     },
     "portfolio": {
-        "projects": [{
+        "projects": [
+            {
                 "no":"01",
-                "title": "RMS with AR",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "Youth Next Opportunities",
+                "description": "A responsive website containing Opportunities for youth where you can explore all the opportunities across the globe. You can explore upcoming opportunities, internships, scholarships, fellowships, competitions, conferences with their details. Here you also can post new opportunity which you want to share with people.",
+                "tools": "VueJS, Vuetify, Vue- Router, SASS, Vue-editor, Vue-Swipper.",
+                "url": "https://nextopportunity.netlify.app/"
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Event Champ",
+                "tools": "NuxtJS, Vuetify, CSS, Vue-editor2, Vue-Swipper, Vue-lightgallery.",
+                "description": "An Event management website. You can also visit all the Venues and Locations, Blogs, event Listing Scheduler, online ticket selling and post your own events by Sign Up and Sign In to the website. You can also check the speakers and their profiles. This project also contains an admin panel to control all the activities of users.",
+                "url": "https://eventchamp-nuxt.netlify.app/"
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Gen Air Limited",
+                "tools": "HTML, CSS, Bootstrap, JavaScript, JQuery, Php and MySQL.",
+                "description": "A full-stack multi-vendors ecommerce website where you can order industrial elements. This also contains admin panel to control the entire sites with multiple user roles and activities.",
+                "url": "https://genair.com.bd/"
             }
         ]
     },
@@ -158,20 +194,28 @@
     "awwards": {
         "awwards": [
             {
-                "title": "Website of the day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "Student of the Batch",
+                "years": "June 2020 – November 2020",
+                "type": "award",
+                "description": "Awarded as “Student of the Batch” of Batch-27 for best UI/UX Development in Web Design Course by SEIP."
             },
             {
-                "title": "Awards Site Of The Day",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "Web Development – LICT (BCC)",
+                "years": "April 2018 – August 2018",
+                "type": "training",
+                "description": "Web Development Course including HTML, CSS, Javascript, PHP and MySQL"
             },
             {
-                "title": "Honorable mention award",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "Complete web development course - Programming Hero",
+                "years": "June 2020 – November 2020",
+                "type": "training",
+                "description": "Modern Web Development Course by Programming Hero including ReactJs, NodeJs, etc.."
             },
             {
-                "title": "Designer of the Company",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+                "title": "Web (UI/ UX) Development – BITM (SEIP)",
+                "years": "June 2019 – October 2019",
+                "type": "training",
+                "description": "Web Design Course including HTML, PSD to HTML, CSS, and JavaScript"
             }
         ]
     }

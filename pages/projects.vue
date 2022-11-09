@@ -1,7 +1,5 @@
 <template>
 <div>
-
-
 <section class="w3l-about-breadcrumb text-center">
     <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
         <div class="container py-2">
@@ -14,37 +12,31 @@
     </div>
 </section>
 
-
 <section class="w3l-services ">
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Projects list</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lots of project for my client.</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lots of projects.</h3>
             <div class="row">
-                
-                    
-                    <div class="col-md-4 col-sm-12 col-xs-12" v-for="project in data.portfolio.projects" v-bind:key="project">
-                        <div class="item">
-                            <div class="card">
-								<a :href="project.url" target="_blank">
+                <div class="col-md-6 col-sm-12 col-xs-12" v-for="project in data.portfolio.projects" v-bind:key="project">
+                    <div class="item">
+                        <div class="card">
                                 <div class="box-wrap">
                                     <div class="icon">
                                         <span class="fa fa-pencil-square-o"></span>
                                     </div>
                                     <h4 class="number">{{project.no}}</h4>
-                                    <h4><a >{{project.title}}</a></h4>
+                                    <h4><a :href="project.url" target="_blank">{{project.title}}</a></h4>
+                                    <h5 class="mb-2 text-dark"><a :href="project.url" target="_blank">Live url: {{project.url}}</a></h5>
+                                    <p class="mb-3">Technology: {{project.tools}}</p>
                                     <p>{{project.description}}</p>
                                 </div>
-								</a>
-                            </div>
                         </div>
                     </div>
-                    
-
+                </div>
             </div>
             <div class="mt-5 text-more">
                 <p class="mt-4 pt-3 sample text-center">
-                    
                 </p>
             </div>
         </div>
