@@ -12,7 +12,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: "preconnect", href: "https://fonts.googleapis.com"},
       { rel: "preconnect", href: "https://fonts.gstatic.com"},
-      { rel: "stylesheet", href: "http://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap"},
+      { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap"},
       { rel: "stylesheet", href: "/resources/assets/css/style-starter.css"},
     ],
     script: [
