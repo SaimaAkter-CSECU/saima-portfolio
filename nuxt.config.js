@@ -28,7 +28,6 @@ export default {
       { src: "/resources/assets/js/jquery.countup.js", body: true },
       { src: "/resources/assets/js/customjs5.js", body: true },
       { src: "/resources/assets/js/bootstrap.min.js", body: true },
-
     ],
   },
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
